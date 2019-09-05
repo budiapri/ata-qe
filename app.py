@@ -6,7 +6,7 @@ def hello():
     return "Hello Assertible!"
 
 @app.route("/hagemaru")
-def hello():
+def hagemaru():
     return "Hello!"
 
 
